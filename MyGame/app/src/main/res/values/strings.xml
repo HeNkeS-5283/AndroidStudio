@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyGame</string>
+
+    <string-array name="game_times">
+        <item>30 секунд</item>
+        <item>1 хвилина</item>
+        <item>3 хвилини</item>
+    </string-array>
+</resources>
